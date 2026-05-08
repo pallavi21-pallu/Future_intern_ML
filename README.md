@@ -51,14 +51,17 @@ Mean Absolute Error (MAE)
 The project includes:
 
 Sales Over Time graph
+
 <img width="1536" height="754" alt="sales" src="https://github.com/user-attachments/assets/bb8747e2-28c3-432d-b717-05530d0c5629" />
 
 
 Actual vs Predicted Sales graph
+
 <img width="1536" height="754" alt="forcast_comparision" src="https://github.com/user-attachments/assets/3822341a-a7f0-4ce7-88db-240a7b0b8b2a" />
 
 
 Future Sales Forecast graph
+
 <img width="1536" height="754" alt="future_pred" src="https://github.com/user-attachments/assets/c62dbb62-6ed9-457b-8aea-bab8f1997325" />
 
 
