@@ -72,6 +72,13 @@ The project includes:
 
 
 
+### complete sales history
+
+
+<img width="1314" height="625" alt="complete_sales_history" src="https://github.com/user-attachments/assets/d5635c55-d51b-4f94-99b2-258d7ac8fd59" />
+
+
+
 These visualizations help non-technical users understand sales trends clearly.
 
 ## 📈 Future Prediction
